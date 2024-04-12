@@ -1,3 +1,5 @@
+[SDF09 LOOM VIDEO LINK](https://www.loom.com/share/7197431feb304dc9be4162ed434d3f71?sid=fa04451d-b3fc-4e9b-bb55-20e42203975e)
+
 # [SDF09] Responsive Footer Design with Tailwind CSS
 
 Create a responsive footer for a website using Tailwind CSS. This project aims to enhance your CSS skills, focusing on responsive design and the utility-first approach of Tailwind CSS.
